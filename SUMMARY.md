@@ -16,7 +16,6 @@
 ## Cetifications
 
 * [OSCP](cetifications/oscp/README.md)
-  * [MEMO.](cetifications/oscp/memo..md)
   * [PLUS+](cetifications/oscp/plus+.md)
 
 ---
