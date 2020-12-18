@@ -22,7 +22,8 @@
 ---
 
 * [OSWE](oswe/README.md)
-  * [OSWE Like Machines](oswe/oswe-like-machines.md)
+  * [OSWE Like Machines](oswe/oswe-like-machines/README.md)
+    * [Blocky - 10.10.10.37](oswe/oswe-like-machines/blocky-10.10.10.37.md)
   * [MEMO.](oswe/memo..md)
   * [PLUS+](oswe/plus+.md)
 
