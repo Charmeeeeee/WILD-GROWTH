@@ -6,7 +6,21 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 
 ## HackTheBox
 
-* [ ] 
+* [ ] Magic - 10.10.10.185
+* [ ] Vault - 10.10.10.109
+* [ ] Popcorn - 10.10.10.6
+* [ ] Celestial - 10.10.10.85
+* [ ] Blocky - 10.10.10.37
+* [ ] Falafel - 10.10.10.73
+* [ ] Help - 10.10.10.121
+* [ ] Zipper - 10.10.10.106
+* [ ] Unattended - 10.10.10.126
+* [ ] Mango - 10.10.10.162
+* [ ] Arkham - 10.10.10.130
+* [ ] Json - 10.10.10.158
+* [ ] Holiday - 10.10.10.25
+* [ ] Hackback - 10.10.10.128
+
 ## VulnHub
 
 * [ ] 
