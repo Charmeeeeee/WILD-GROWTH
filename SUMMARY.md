@@ -14,6 +14,7 @@
 ## 进阶 <a id="advanced"></a>
 
 * [XSS](advanced/xss/README.md)
+  * [KEY POINTS](advanced/xss/key-points.md)
   * [Cheat Sheet](advanced/xss/cheat-sheet.md)
 
 ## Cetifications
