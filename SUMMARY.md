@@ -13,6 +13,8 @@
 
 ## 进阶 <a id="advanced"></a>
 
+* [XSS](advanced/xss.md)
+
 ## Cetifications
 
 * [OSCP](cetifications/oscp/README.md)
