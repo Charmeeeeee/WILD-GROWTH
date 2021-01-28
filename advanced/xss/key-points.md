@@ -1,7 +1,3 @@
----
-description: 'https://www.google.com/intl/sw/about/appsecurity/learning/xss/'
----
-
 # KEY POINTS
 
 #### 先决条件：
@@ -10,6 +6,9 @@ description: 'https://www.google.com/intl/sw/about/appsecurity/learning/xss/'
 * [ ] Javascript
 * [ ] DOM
 
+#### 总结：[https://www.google.com/intl/sw/about/appsecurity/learning/xss/](https://www.google.com/intl/sw/about/appsecurity/learning/xss/)
+
+* 
 
 
 
