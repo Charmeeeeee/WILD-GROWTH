@@ -13,7 +13,8 @@
 
 ## 进阶 <a id="advanced"></a>
 
-* [XSS](advanced/xss.md)
+* [XSS](advanced/xss/README.md)
+  * [Cheat Sheet](advanced/xss/cheat-sheet.md)
 
 ## Cetifications
 
