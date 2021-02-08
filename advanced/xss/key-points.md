@@ -8,9 +8,14 @@
 
 #### 资料：
 
+#### XSS
+
 * \*\*\*\*[**https://null-byte.wonderhowto.com/how-to/discover-xss-security-flaws-by-fuzzing-with-burp-suite-wfuzz-xsstrike-0189971/**](https://null-byte.wonderhowto.com/how-to/discover-xss-security-flaws-by-fuzzing-with-burp-suite-wfuzz-xsstrike-0189971/)\*\*\*\*
 * \*\*\*\*[**https://www.google.com/intl/sw/about/appsecurity/learning/xss/**](https://www.google.com/intl/sw/about/appsecurity/learning/xss/)\*\*\*\*
 * \*\*\*\*[**https://www.youtube.com/watch?v=IuzU4y-UjLw**](https://www.youtube.com/watch?v=IuzU4y-UjLw)\*\*\*\*
+
+#### Session Hijacking
+
 * \*\*\*\*[**https://www.cnblogs.com/yingyingja/p/10932140.html**](https://www.cnblogs.com/yingyingja/p/10932140.html)\*\*\*\*
 
 #### 
