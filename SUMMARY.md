@@ -16,6 +16,9 @@
 * [XSS](advanced/xss/README.md)
   * [KEY POINTS](advanced/xss/key-points.md)
   * [Cheat Sheet](advanced/xss/cheat-sheet.md)
+* [CSRF](advanced/csrf.md)
+* [不安全的反序列化](advanced/bu-an-quan-de-fan-xu-lie-hua.md)
+* [SQL注入](advanced/sql-zhu-ru.md)
 
 ## Cetifications
 
