@@ -1,12 +1,12 @@
 # KEY POINTS
 
-#### 先决条件：
+### 先决条件：
 
 * [ ] HTML
 * [ ] Javascript
 * [ ] DOM
 
-#### 资料：
+### 资料：
 
 #### XSS
 
