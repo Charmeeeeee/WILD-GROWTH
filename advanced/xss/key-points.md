@@ -14,8 +14,7 @@
 * \*\*\*\*[**https://www.google.com/intl/sw/about/appsecurity/learning/xss/**](https://www.google.com/intl/sw/about/appsecurity/learning/xss/)\*\*\*\*
 * \*\*\*\*[**https://www.youtube.com/watch?v=IuzU4y-UjLw**](https://www.youtube.com/watch?v=IuzU4y-UjLw)\*\*\*\*
 * \*\*\*\*[**https://www.youtube.com/watch?v=T1QEs3mdJoc**](https://www.youtube.com/watch?v=T1QEs3mdJoc)\*\*\*\*
-* \*\*\*\*[**https://www.youtube.com/watch?v=M6N7gEZ-IUQ**](https://www.youtube.com/watch?v=M6N7gEZ-IUQ)\*\*\*\*
-* \*\*\*\*[**https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs**](https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs)\*\*\*\*
+* \*\*\*\*
 
 #### Session Hijacking
 
