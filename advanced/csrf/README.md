@@ -12,6 +12,7 @@ description: Cross Site Request Forgery
 * [https://www.youtube.com/watch?v=QWw7Wd2gUJk](https://www.youtube.com/watch?v=QWw7Wd2gUJk)
 * [https://www.youtube.com/watch?v=j8Yxff6L\_po](https://www.youtube.com/watch?v=j8Yxff6L_po)
 * [https://www.youtube.com/watch?v=13QPmRuhbhU](https://www.youtube.com/watch?v=13QPmRuhbhU)
+* [https://www.youtube.com/watch?v=AwicscsvGLg](https://www.youtube.com/watch?v=AwicscsvGLg)
 
 
 
