@@ -13,7 +13,10 @@
 
 ## 进阶 <a id="advanced"></a>
 
-* [隐藏通信隧道技术](advanced/yin-cang-tong-xin-sui-dao-ji-shu.md)
+* [隐藏通信隧道技术](advanced/yin-cang-tong-xin-sui-dao-ji-shu/README.md)
+  * [网络层](advanced/yin-cang-tong-xin-sui-dao-ji-shu/wang-luo-ceng.md)
+  * [传输层](advanced/yin-cang-tong-xin-sui-dao-ji-shu/chuan-shu-ceng.md)
+  * [应用层](advanced/yin-cang-tong-xin-sui-dao-ji-shu/ying-yong-ceng.md)
 * [XSS](advanced/xss/README.md)
   * [KEY POINTS](advanced/xss/key-points.md)
   * [Cheat Sheet](advanced/xss/cheat-sheet.md)
