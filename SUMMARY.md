@@ -10,6 +10,8 @@
   * [Python](basics/sql/python.md)
   * [Javascript](basics/sql/javascript.md)
   * [PHP](basics/sql/php.md)
+* [协议](basics/xie-yi/README.md)
+  * [ICMP](basics/xie-yi/icmp.md)
 
 ## 进阶 <a id="advanced"></a>
 
