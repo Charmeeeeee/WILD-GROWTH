@@ -7,5 +7,16 @@
 * 在不受信任的网络中，实现数据的安全传输
 {% endhint %}
 
+{% hint style="info" %}
+TCP/UDP通信已经大量的被防御系统拦截，传统的Socket隧道已濒临淘汰。
+
+使用那些难以被禁用的协议，已成为控制隧道的主要渠道：
+
+* [ ] SSH隧道
+* [ ] ICMP隧道
+* [ ] HTTP/HTTPS隧道
+* [ ] DNS隧道
+{% endhint %}
+
 
 
