@@ -34,4 +34,8 @@ description: 重要模块
 
 ### 总结
 
+* Attack Type各选项的区别
+
+  [https://www.sjoerdlangkemper.nl/2017/08/02/burp-intruder-attack-types/](https://www.sjoerdlangkemper.nl/2017/08/02/burp-intruder-attack-types/)
+
 * 
