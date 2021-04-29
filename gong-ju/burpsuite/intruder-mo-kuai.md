@@ -15,8 +15,20 @@ description: 重要模块
 * 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Payloads" %}
+* PayloadsAllTheThings 
 
+  [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+* Fuzzdb 
+
+  [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+
+* SecLists 
+
+  [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+* 
 {% endtab %}
 {% endtabs %}
 
