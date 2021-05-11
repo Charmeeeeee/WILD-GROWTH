@@ -16,6 +16,8 @@
 ## 进阶 <a id="advanced"></a>
 
 * [XSS](advanced/xss/README.md)
+  * [存储型XSS](advanced/xss/cun-chu-xing-xss.md)
+  * [DOM型XSS](advanced/xss/dom-xing-xss.md)
   * [反射型XSS](advanced/xss/fan-she-xing-xss.md)
   * [Cookie XSS](advanced/xss/cookie-xss.md)
   * [头部XSS](advanced/xss/tou-bu-xss.md)
