@@ -6,6 +6,7 @@
 * **Class**          [https://www.youtube.com/watch?v=2ZphE5HcQPQ](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
 * **This**            [https://www.youtube.com/watch?v=gvicrj31JOM](https://www.youtube.com/watch?v=gvicrj31JOM)
 * **Callback**    [https://www.youtube.com/watch?v=SqOX9kPQCR4](https://www.youtube.com/watch?v=SqOX9kPQCR4)
+* **Function**    [https://www.youtube.com/watch?v=ArfH0C6-aic](https://www.youtube.com/watch?v=ArfH0C6-aic)
 {% endtab %}
 
 {% tab title="Second Tab" %}
