@@ -11,7 +11,8 @@ description: DOM-based XSS ：中危
 {% endtab %}
 
 {% tab title="DOM XSS" %}
-
+* [ ] **Portwigger - DOM XSS**   [https://portswigger.net/web-security/cross-site-scripting/dom-based](https://portswigger.net/web-security/cross-site-scripting/dom-based)
+* [ ] 
 {% endtab %}
 {% endtabs %}
 
