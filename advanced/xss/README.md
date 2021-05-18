@@ -12,6 +12,7 @@ description: Cross Site Scripting
 * [https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs](https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs)
 * [https://www.youtube.com/watch?v=M6N7gEZ-IU](https://www.youtube.com/watch?v=M6N7gEZ-IUQ)
 * [https://youtu.be/k8yJCeuP6I8](https://youtu.be/k8yJCeuP6I8)
+* [https://www.youtube.com/watch?v=ns1LX6mEvyM](https://www.youtube.com/watch?v=ns1LX6mEvyM)
 
 
 
