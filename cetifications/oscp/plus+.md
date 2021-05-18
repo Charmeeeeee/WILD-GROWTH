@@ -15,8 +15,8 @@ description: 辅助考试的其他信息
 
 {% endtab %}
 
-{% tab title="OSCP相似机器" %}
-
+{% tab title="工具集" %}
+* [ ] **John the Ripper**   [https://www.youtube.com/watch?v=XjVYl1Ts6XI](https://www.youtube.com/watch?v=XjVYl1Ts6XI)
 {% endtab %}
 {% endtabs %}
 
