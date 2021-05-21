@@ -6,6 +6,8 @@ description: Cross Site Scripting
 
 ### BASICS
 
+{% tabs %}
+{% tab title="First Tab" %}
 * [ ] [https://segmentfault.com/a/1190000017831088](https://segmentfault.com/a/1190000017831088)
 * [ ] [https://www.youtube.com/watch?v=j8Yxff6L\_po](https://www.youtube.com/watch?v=j8Yxff6L_po)
 * [ ] [https://blog.logrocket.com/localstorage-javascript-complete-guide/](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
@@ -13,6 +15,12 @@ description: Cross Site Scripting
 * [ ] [https://www.youtube.com/watch?v=M6N7gEZ-IU](https://www.youtube.com/watch?v=M6N7gEZ-IUQ)
 * [ ] [https://youtu.be/k8yJCeuP6I8](https://youtu.be/k8yJCeuP6I8)
 * [ ] [https://www.youtube.com/watch?v=ns1LX6mEvyM](https://www.youtube.com/watch?v=ns1LX6mEvyM)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
