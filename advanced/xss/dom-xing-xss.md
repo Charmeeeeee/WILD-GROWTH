@@ -14,5 +14,9 @@ description: DOM-based XSS ：中危
 * [ ] **Portwigger - DOM XSS**   [https://portswigger.net/web-security/cross-site-scripting/dom-based](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 * [ ] 
 {% endtab %}
+
+{% tab title="HackTheBox" %}
+* [ ] 
+{% endtab %}
 {% endtabs %}
 
