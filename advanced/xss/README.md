@@ -15,8 +15,18 @@ description: Cross Site Scripting
 * [ ] [https://www.youtube.com/watch?v=ns1LX6mEvyM](https://www.youtube.com/watch?v=ns1LX6mEvyM)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="PortSwigger" %}
+* [ ]  [Cross-site scripting](https://portswigger.net/web-security/cross-site-scripting)
+* [ ] [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
+* [ ] [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
+* [ ] [DOM-based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
+* [ ] [XSS contexts](https://portswigger.net/web-security/cross-site-scripting/contexts)
+* [ ] [AngularJS sandbox](https://portswigger.net/web-security/cross-site-scripting/contexts/angularjs-sandbox)
+* [ ] [Exploiting XSS vulnerabilities](https://portswigger.net/web-security/cross-site-scripting/exploiting)
+* [ ] [Content security policy](https://portswigger.net/web-security/cross-site-scripting/content-security-policy)
+* [ ] [Dangling markup](https://portswigger.net/web-security/cross-site-scripting/dangling-markup)
+* [ ] [Preventing XSS](https://portswigger.net/web-security/cross-site-scripting/preventing)
+* [ ] [XSS cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 {% endtab %}
 {% endtabs %}
 
