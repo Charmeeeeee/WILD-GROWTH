@@ -10,7 +10,6 @@ description: Stored XSS ：高危
 * [ ] **BankRobber**      [https://www.youtube.com/watch?v=zYmA9ECuCio](https://www.youtube.com/watch?v=zYmA9ECuCio)
 * [ ] **Rope2**                 [https://www.youtube.com/watch?v=m6Fpc3zxrJg](https://www.youtube.com/watch?v=m6Fpc3zxrJg)
 * [ ] **Oouch**                 [https://www.youtube.com/watch?v=EUtqjK27MxQ](https://www.youtube.com/watch?v=EUtqjK27MxQ)
-* [ ] 
 {% endtab %}
 
 {% tab title="Second Tab" %}
