@@ -12,8 +12,9 @@ description: 服务器端模板注入 - 【Server-side Tamplate Injection】
 * [ ] **细说SSTI**    [https://www.freebuf.com/articles/web/246832.html](https://www.freebuf.com/articles/web/246832.html)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="HackTheBox" %}
+* [ ] **Doctor**    [https://www.youtube.com/watch?v=JcOR9krOPFY](https://www.youtube.com/watch?v=JcOR9krOPFY)
+* [ ] 
 {% endtab %}
 {% endtabs %}
 
