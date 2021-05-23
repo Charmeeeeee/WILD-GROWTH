@@ -14,6 +14,7 @@ description: 服务器端模板注入 - 【Server-side Tamplate Injection】
 * [ ] **SSTI Pentester指南**    [https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 * [ ] **ERPNext服务器端模板注入**    [https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872](https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872)
 * [ ] **PayloadsAllTheThings**     [https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server Side Template Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection)
+* [ ] 
 {% endtab %}
 
 {% tab title="HackTheBox" %}
