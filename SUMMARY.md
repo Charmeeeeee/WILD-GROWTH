@@ -30,6 +30,7 @@
 * [CSRF](advanced/csrf/README.md)
   * [KEY OPINTS](advanced/csrf/key-opints.md)
 * [SSTI注入](advanced/ssti-zhu-ru.md)
+* [OS Command Injection](advanced/os-command-injection.md)
 * [SQL注入](advanced/sql-zhu-ru.md)
 * [不安全的反序列化](advanced/bu-an-quan-de-fan-xu-lie-hua/README.md)
   * [KEY POINTS](advanced/bu-an-quan-de-fan-xu-lie-hua/key-points.md)
