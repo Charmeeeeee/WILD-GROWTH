@@ -54,7 +54,7 @@ description: DO NO EVIL .
 * 当焦点转移到实际压力之外时，就放开了那些给我们带来极大压力的情况。**运动/睡眠**
 * 专注的人不仅具有极大的持久性和顽强性，而且也几乎不会分心或灰心。如果我们知道我们的目标，则更容易相应地调整我们的重点。反过来，这使我们更有效率，而且我们更快地更接近目标，并且不会让自己被外界影响分散注意力
 
-  > **Focusing is the purposeful and deliberate alignment to a specific goal（聚焦是有目的的和有意的对一个特定目标的调整）**
+  > **Focusing is the purposeful and deliberate alignment to a specific goal（专注是对一个特定目标有目的且有意的调整）**
 
 * 注意力是对具有较高兴趣水平的特定主题的感知，以便从中收集特定数据和信息。注意力会随着你获得的经验以及从内容及其清晰度中获得的信息而改变
 
