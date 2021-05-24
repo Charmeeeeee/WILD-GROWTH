@@ -1,8 +1,10 @@
 ---
-description: '【From : HackTheBox Academy】'
+description: DO NO EVIL .
 ---
 
 # MEMO.
+
+【From : HackTheBox Academy】
 
 * 信息安全领域是庞大的体系，你无法了解一切
 * 你确实需要花上一段时间学习不同的技术原理/结构/过程，但不是7年或是更久
