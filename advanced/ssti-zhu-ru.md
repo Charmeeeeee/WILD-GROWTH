@@ -11,12 +11,14 @@ description: 服务器端模板注入 - 【Server-side Tamplate Injection】
 * [x] **SSTI**       [https://portswigger.net/web-security/server-side-template-injection](https://portswigger.net/web-security/server-side-template-injection)
   * [ ] [https://portswigger.net/research/server-side-template-injection](https://portswigger.net/research/server-side-template-injection)
   * [ ] **Server-Side Template Injection: RCE For The Modern Web App**     [https://www.youtube.com/watch?v=3cT0uE7Y87s](https://www.youtube.com/watch?v=3cT0uE7Y87s)
-* [ ] **Server-Side Template Injection**     [https://www.youtube.com/watch?v=7sdfT8Z\_CPw](https://www.youtube.com/watch?v=7sdfT8Z_CPw)
 * [x] **SSTI Pentester指南**    [https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68](https://blog.cobalt.io/a-pentesters-guide-to-server-side-template-injection-ssti-c5e3998eae68)
 * [x] **Server Side Template Injection \(SSTI\): All-in-One**     [https://www.youtube.com/watch?v=jRiz8Yg9vbA&t=2s](https://www.youtube.com/watch?v=jRiz8Yg9vbA&t=2s)
 * [ ] **ERPNext服务器端模板注入**    [https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872](https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872)
 * [ ] **PayloadsAllTheThings**     [https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server Side Template Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection)
 * [ ] **From HackTricks**       [https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+* [ ] **Jinja2模板注入过滤器旁路**  [**https://0day.work/jinja2-template-injection-filter-bypasses/**](https://0day.work/jinja2-template-injection-filter-bypasses/)\*\*\*\*
+* [ ] **Craft CMS插件SEOmatic &lt;= 3.1.3进行服务器端模板注入**    [**http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/**](http://ha.cker.info/exploitation-of-server-side-template-injection-with-craft-cms-plguin-seomatic/)\*\*\*\*
+* [ ] **Server-Side Template Injection**     [**https://www.youtube.com/watch?v=7sdfT8Z\_CPw**](https://www.youtube.com/watch?v=7sdfT8Z_CPw)\*\*\*\*
 {% endtab %}
 
 {% tab title="HackTheBox" %}
