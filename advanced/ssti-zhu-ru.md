@@ -25,7 +25,9 @@ description: 服务器端模板注入 - 【Server-side Tamplate Injection】
 {% endtab %}
 
 {% tab title="MEMO." %}
-* [ ] **Mustache \(无逻辑模板系统\)**      [https://mustache.github.io/](https://mustache.github.io/)
+* [ ] 安全对策 ：
+  * [ ] **Mustache \(无逻辑模板系统\)**      [https://mustache.github.io/](https://mustache.github.io/)
+  * [ ] 使用由原生开发语言提供的模板引擎（如：Python 的 template）
 * [ ] **EXPLOIT-DB：**
   * [ ] **Twig &lt; 2.4.4**      [https://www.exploit-db.com/exploits/44102](https://www.exploit-db.com/exploits/44102)
   * [ ] **Craft CMS SEOmatic plugin 3.1.4**     [https://www.exploit-db.com/exploits/45108](https://www.exploit-db.com/exploits/45108)
