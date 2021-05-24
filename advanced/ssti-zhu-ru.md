@@ -26,6 +26,12 @@ description: 服务器端模板注入 - 【Server-side Tamplate Injection】
 
 {% tab title="MEMO." %}
 * [ ] Mustache \(无逻辑模板系统\)      [https://mustache.github.io/](https://mustache.github.io/)
+* [ ] EXPLOIT-DB：
+  * [ ] **Twig &lt; 2.4.4**      [https://www.exploit-db.com/exploits/44102](https://www.exploit-db.com/exploits/44102)
+  * [ ] **Craft CMS SEOmatic plugin 3.1.4**     [https://www.exploit-db.com/exploits/45108](https://www.exploit-db.com/exploits/45108)
+  * [ ] **PDF Signer 3.0**     [https://www.exploit-db.com/exploits/46276](https://www.exploit-db.com/exploits/46276)
+  * [ ] **Jinja2 2.10**       [https://www.exploit-db.com/exploits/46386](https://www.exploit-db.com/exploits/46386)
+  * [ ] **CMS Made Simple 2.1.6**      [https://www.exploit-db.com/exploits/48944](https://www.exploit-db.com/exploits/48944)
 * [ ] 
 {% endtab %}
 {% endtabs %}
