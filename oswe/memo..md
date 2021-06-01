@@ -6,7 +6,9 @@
   * [x] DAST     [https://www.youtube.com/watch?v=6okVFkDKORg](https://www.youtube.com/watch?v=6okVFkDKORg)
   * [ ] SAST
   * [ ] IAST
-  * [ ] OAST
+  * [ ] OAST     
+    * [ ] [https://portswigger.net/blog/oast-out-of-band-application-security-testing](https://portswigger.net/blog/oast-out-of-band-application-security-testing)
+    * [ ] [https://portswigger.net/burp/application-security-testing/oast](https://portswigger.net/burp/application-security-testing/oast)
 * [ ] 
 {% endtab %}
 
