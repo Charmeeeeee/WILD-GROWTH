@@ -6,8 +6,6 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 
 ## HackTheBox
 
-
-
 * [ ] Vault - 10.10.10.109
 * [ ] Popcorn - 10.10.10.6
 * [ ] Celestial - 10.10.10.85
@@ -17,16 +15,6 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 * [ ] Json - 10.10.10.158
 * [ ] Holiday - 10.10.10.25
 * [ ] Hackback - 10.10.10.128
-
-## VulnHub
-
-* [ ] Silky-CTF 0x02
-* [ ] bwapp
-* [ ] Homeless 1
-* [ ] Seattle 0.3
-* [ ] Ted 1
-* [ ] Raven 2
-* [ ] Flick 2
 
 {% tabs %}
 {% tab title="SQL 注入" %}
@@ -67,4 +55,14 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 
 {% endtab %}
 {% endtabs %}
+
+## VulnHub
+
+* [ ] Silky-CTF 0x02
+* [ ] bwapp
+* [ ] Homeless 1
+* [ ] Seattle 0.3
+* [ ] Ted 1
+* [ ] Raven 2
+* [ ] Flick 2
 
