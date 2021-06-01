@@ -3,6 +3,10 @@
 {% tabs %}
 {% tab title="杂项" %}
 * [x] **Web Application Security Testing**    [https://portswigger.net/burp/application-security-testing](https://portswigger.net/burp/application-security-testing)
+  * [ ] DAST     [https://www.youtube.com/watch?v=6okVFkDKORg](https://www.youtube.com/watch?v=6okVFkDKORg)
+  * [ ] SAST
+  * [ ] IAST
+  * [ ] OAST
 * [ ] 
 {% endtab %}
 
