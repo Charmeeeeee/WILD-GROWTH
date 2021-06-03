@@ -8,7 +8,7 @@
 * [ ] **盲注**                    [https://portswigger.net/web-security/sql-injection/blind](https://portswigger.net/web-security/sql-injection/blind)
 * [ ] **1/2阶注入**         [https://www.cnblogs.com/sun-sunshine123/p/6921383.html](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
   * [ ] [https://www.4hou.com/posts/ME0R](https://www.4hou.com/posts/ME0R)
-* [ ] **DVWA - SQL Injecttion**      [https://www.youtube.com/watch?v=5bj1pFmyyBA](https://www.youtube.com/watch?v=5bj1pFmyyBA)
+* [x] **DVWA - SQL Injecttion**      [https://www.youtube.com/watch?v=5bj1pFmyyBA](https://www.youtube.com/watch?v=5bj1pFmyyBA)
 * [ ] 
 {% endtab %}
 
