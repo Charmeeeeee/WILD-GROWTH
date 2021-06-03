@@ -5,7 +5,9 @@
 * [ ] **SQL注入**             [https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
   * [x] [https://www.youtube.com/watch?v=wX6tszfgYp4](https://www.youtube.com/watch?v=wX6tszfgYp4)
 * [ ] **UNION攻击**        [https://portswigger.net/web-security/sql-injection/union-attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
-* [ ] **盲注**                   [https://portswigger.net/web-security/sql-injection/blind](https://portswigger.net/web-security/sql-injection/blind)
+* [ ] **盲注** 
+  * [ ]  [https://portswigger.net/web-security/sql-injection/blind](https://portswigger.net/web-security/sql-injection/blind)
+  * [ ] [https://www.acunetix.com/websitesecurity/blind-sql-injection/](https://www.acunetix.com/websitesecurity/blind-sql-injection/)
 * [ ] **1/2阶注入**         [https://www.cnblogs.com/sun-sunshine123/p/6921383.html](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
   * [ ] [https://www.4hou.com/posts/ME0R](https://www.4hou.com/posts/ME0R)
 * [x] **DVWA - SQL Injecttion**      [https://www.youtube.com/watch?v=5bj1pFmyyBA](https://www.youtube.com/watch?v=5bj1pFmyyBA)
