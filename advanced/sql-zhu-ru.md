@@ -16,7 +16,7 @@
   * [ ] [https://www.4hou.com/posts/ME0R](https://www.4hou.com/posts/ME0R)
 * [x] **DVWA - SQL Injecttion**      [https://www.youtube.com/watch?v=5bj1pFmyyBA](https://www.youtube.com/watch?v=5bj1pFmyyBA)
 * [ ] **DVWA - SQL Injection \(Blind\)**     [https://www.youtube.com/watch?v=uN8Tv1exPMk](https://www.youtube.com/watch?v=uN8Tv1exPMk)
-* [ ] **SQL Tutorial**       [https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
+* [x] **SQL Tutorial**       [https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
 {% endtab %}
 
 {% tab title="工具" %}
