@@ -8,7 +8,7 @@
 * [ ] **盲注**                    [https://portswigger.net/web-security/sql-injection/blind](https://portswigger.net/web-security/sql-injection/blind)
 * [ ] **1/2阶注入**         [https://www.cnblogs.com/sun-sunshine123/p/6921383.html](https://www.cnblogs.com/sun-sunshine123/p/6921383.html)
   * [ ] [https://www.4hou.com/posts/ME0R](https://www.4hou.com/posts/ME0R)
-* [ ] \*\*\*\*
+* [ ] **DVWA - SQL Injecttion**      
 {% endtab %}
 
 {% tab title="SQL" %}
@@ -18,6 +18,10 @@
 
 {% tab title="HackTheBox" %}
 
+{% endtab %}
+
+{% tab title="防御" %}
+* [ ] [https://phpdelusions.net/sql\_injection](https://phpdelusions.net/sql_injection)
 {% endtab %}
 {% endtabs %}
 
