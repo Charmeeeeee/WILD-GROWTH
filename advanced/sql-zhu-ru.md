@@ -5,7 +5,7 @@
 * [ ] **SQL注入**
   * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
   * [ ] [https://www.youtube.com/watch?v=wX6tszfgYp4](https://www.youtube.com/watch?v=wX6tszfgYp4)
-* [ ] **UNION攻击**
+* [x] **UNION攻击**
   * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection/union-attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
   * [ ] 
 * [ ] **盲注** 
