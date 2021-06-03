@@ -29,7 +29,8 @@
 {% endtab %}
 
 {% tab title="防御" %}
-* [ ] [https://phpdelusions.net/sql\_injection](https://phpdelusions.net/sql_injection)
+* [ ] **SQL注入防御漫游指南**   [https://phpdelusions.net/sql\_injection](https://phpdelusions.net/sql_injection)
+* [ ] 
 {% endtab %}
 {% endtabs %}
 
