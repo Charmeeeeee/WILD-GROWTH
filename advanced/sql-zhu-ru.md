@@ -2,8 +2,9 @@
 
 {% tabs %}
 {% tab title="基础" %}
-* [ ] **SQL注入**             [https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
-  * [x] [https://www.youtube.com/watch?v=wX6tszfgYp4](https://www.youtube.com/watch?v=wX6tszfgYp4)
+* [ ] **SQL注入**
+  * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
+  * [ ] [https://www.youtube.com/watch?v=wX6tszfgYp4](https://www.youtube.com/watch?v=wX6tszfgYp4)
 * [ ] **UNION攻击**
   * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection/union-attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
   * [ ] 
