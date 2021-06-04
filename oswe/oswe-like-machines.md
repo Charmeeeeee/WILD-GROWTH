@@ -58,6 +58,8 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 
 ## VulnHub
 
+{% tabs %}
+{% tab title="First Tab" %}
 * [ ] Silky-CTF 0x02
 * [ ] bwapp
 * [ ] Homeless 1
@@ -65,4 +67,10 @@ description: 线上靶场中，与OSWE类似的靶机实操流程及涉及的技
 * [ ] Ted 1
 * [ ] Raven 2
 * [ ] Flick 2
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
