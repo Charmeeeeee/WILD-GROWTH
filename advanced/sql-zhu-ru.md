@@ -5,7 +5,8 @@
 * [ ] **SQL注入**
   * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection](https://portswigger.net/web-security/sql-injection)
   * [ ] [https://www.youtube.com/watch?v=wX6tszfgYp4](https://www.youtube.com/watch?v=wX6tszfgYp4)
-  * [ ] [https://www.youtube.com/watch?v=ciNHn38EyRc](https://www.youtube.com/watch?v=ciNHn38EyRc)
+  * [ ] [https://www.youtube.com/watch?v=\_jKylhJtPmI](https://www.youtube.com/watch?v=_jKylhJtPmI)
+  * [x] [https://www.youtube.com/watch?v=ciNHn38EyRc](https://www.youtube.com/watch?v=ciNHn38EyRc)
 * [x] **UNION攻击**
   * [ ] \*\*\*\*[https://portswigger.net/web-security/sql-injection/union-attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
   * [ ] 
