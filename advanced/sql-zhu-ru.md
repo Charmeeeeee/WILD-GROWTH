@@ -22,7 +22,9 @@
 {% endtab %}
 
 {% tab title="工具" %}
-* [ ] **sqlmap**   
+* [ ] **sqlmap :**
+  * [x] \*\*\*\*[**https://www.youtube.com/watch?v=cx6Xs3F\_1Uc**](https://www.youtube.com/watch?v=cx6Xs3F_1Uc)\*\*\*\*
+  * [ ] \*\*\*\*
 * [ ] 
 {% endtab %}
 
