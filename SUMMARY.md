@@ -16,6 +16,7 @@
 
 ## 进阶 <a id="advanced"></a>
 
+* [代码审计](advanced/dai-ma-shen-ji.md)
 * [XSS](advanced/xss/README.md)
   * [存储型XSS](advanced/xss/cun-chu-xing-xss.md)
   * [DOM型XSS](advanced/xss/dom-xing-xss.md)
