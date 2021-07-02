@@ -13,6 +13,7 @@
 * [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
 * [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
 * [x] [https://zhuanlan.zhihu.com/p/234921932](https://zhuanlan.zhihu.com/p/234921932)
+* [x] [https://0xklaue.medium.com/attacking-the-web-the-offensive-security-way-b38bea609318](https://0xklaue.medium.com/attacking-the-web-the-offensive-security-way-b38bea609318)
 {% endtab %}
 {% endtabs %}
 
