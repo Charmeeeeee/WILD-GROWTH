@@ -10,6 +10,8 @@
 * [x] [https://www.freebuf.com/articles/web/278871.html](https://www.freebuf.com/articles/web/278871.html)
 * [x] [https://madneal.com/post/oswe/](https://madneal.com/post/oswe/)
 * [x] [https://d.oulove.me/2021/01/19/OSWE-reflection/](https://d.oulove.me/2021/01/19/OSWE-reflection/)
+* [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
+* [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
 {% endtab %}
 {% endtabs %}
 
