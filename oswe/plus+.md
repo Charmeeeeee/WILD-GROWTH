@@ -9,6 +9,7 @@
 {% tab title="经验" %}
 * [x] [https://www.freebuf.com/articles/web/278871.html](https://www.freebuf.com/articles/web/278871.html)
 * [x] [https://madneal.com/post/oswe/](https://madneal.com/post/oswe/)
+* [ ] [https://d.oulove.me/2021/01/19/OSWE-reflection/](https://d.oulove.me/2021/01/19/OSWE-reflection/)
 {% endtab %}
 {% endtabs %}
 
