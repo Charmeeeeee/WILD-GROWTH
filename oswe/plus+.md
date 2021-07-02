@@ -8,7 +8,7 @@
 
 {% tab title="经验" %}
 * [x] [https://www.freebuf.com/articles/web/278871.html](https://www.freebuf.com/articles/web/278871.html)
-* [ ] 
+* [x] [https://madneal.com/post/oswe/](https://madneal.com/post/oswe/)
 {% endtab %}
 {% endtabs %}
 
