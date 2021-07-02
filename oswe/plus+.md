@@ -12,6 +12,7 @@
 * [x] [https://d.oulove.me/2021/01/19/OSWE-reflection/](https://d.oulove.me/2021/01/19/OSWE-reflection/)
 * [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
 * [ ] [https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/](https://ch1kpee.com/2020/05/27/my-awae-oswe-experience/)
+* [x] [https://zhuanlan.zhihu.com/p/234921932](https://zhuanlan.zhihu.com/p/234921932)
 {% endtab %}
 {% endtabs %}
 
