@@ -25,5 +25,9 @@
 {% tab title=".NET" %}
 
 {% endtab %}
+
+{% tab title="手工" %}
+* [ ] [https://websec.readthedocs.io/zh/latest/misc/aduit.html\#id13](https://websec.readthedocs.io/zh/latest/misc/aduit.html#id13)
+{% endtab %}
 {% endtabs %}
 
